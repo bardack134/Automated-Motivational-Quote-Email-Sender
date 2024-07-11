@@ -60,6 +60,7 @@ def send_email():
         </html>
         ''', subtype='html')
 
+
         # Send the email with our data
         with smtplib.SMTP("smtp.gmail.com", 587) as connection:
             # TLS (Transport Layer Security), use this function to encrypt our message and for a secure connection
