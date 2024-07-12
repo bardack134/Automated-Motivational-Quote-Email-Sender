@@ -81,7 +81,6 @@ def send_email():
 # Get today's date and time
 today = datetime.today()
 
-
 # (0 = Monday, 1 = Tuesday, ..., 6 = Sunday), I want to send an email every day, so I create a list of days
 my_day = [0, 1, 2, 3, 4, 5, 6]
 
