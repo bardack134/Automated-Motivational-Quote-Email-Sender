@@ -1,21 +1,12 @@
-# Automated-Motivational-Quote-Email-Sender
+##タイトル
+自動化スクリプトでメールを送りま
 
-## Table of Contents
-1. Overview
-2. Tools Used
-3. Images
+ ##説明：
 
-## Overview
-This repository contains a Python script that automatically sends an email with a random motivational quote every day of the week. The script reads a quote from a .txt file, inserts it into an HTML formatted email, and then sends it to a specific recipient.
-
-## Tools Used
-The tools used in this project are: datetime, smtplib, email, random.
-
-## Images
-!quotes
-![quotes](https://github.com/bardack134/Automated-Motivational-Quote-Email-Sender/assets/142977989/86b3bd54-7ca4-4997-8cdc-4a45e0564b2d)
+キリスト教徒として毎日聖書を読む必要があります。しかし、最近はとても忙しくて聖書を読む時間が中々取れませんでした。そこで、Pythonでスクリプトを作成し、毎日テキストファイルに書かれた聖書のメッセージを取得して私のメールに送るようにしました。」という文を修正いたします。
 
 
-!example of email
-![example of email](https://github.com/bardack134/Automated-Motivational-Quote-Email-Sender/assets/142977989/d262cef0-0313-4ca1-b7c0-dadec14e5704)
-
+##使用ツール：
+random: テキストファイルからランダムなフレーズを選択しています。
+ mtplib: このライブラリは、クライアントセッションオブジェクトを作成し、メールを送信するために使用します。
+EmailMessage: EmailMessage クラスを使用して、メールの件名、送信者、受信者、および内容を設定しています。
