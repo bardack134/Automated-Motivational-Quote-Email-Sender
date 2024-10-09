@@ -27,5 +27,6 @@
 
 
 !example of email
-![example of email](https://github.com/bardack134/Automated-Motivational-Quote-Email-Sender/assets/142977989/d262cef0-0313-4ca1-b7c0-dadec14e5704)
+![スクリーンショット 2024-07-12 063801](https://github.com/user-attachments/assets/0f0c5225-2daf-4c36-9ea2-81e854fc108b)
+
 
